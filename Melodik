@@ -1,0 +1,45 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Melodik Rush</title>
+
+<meta property="og:title" content="Melodik Rush - Mi 1/2">
+<meta property="og:image" content="AQUI_PEGA_TU_IMAGEN">
+
+<style>
+body {
+  background: black;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+img {
+  width: 90%;
+  margin-top: 40px;
+}
+button {
+  margin-top: 20px;
+  padding: 15px;
+  background: red;
+  color: white;
+  border: none;
+  font-size: 18px;
+}
+</style>
+</head>
+
+<body>
+
+<img src="AQUI_PEGA_TU_IMAGEN">
+
+<h2>Mi 1/2</h2>
+
+<a href="http://url2734.distrokid.com/ls/click?upn=u001.a0grtTtFNGObbwv02PitCPUodymsTWKXNsD1pT7nhD3bxoHMEn9OwhHTWCI1eEcTYAgYTpbw57sSdrNB10Q-2BRPOiPy2MMnGP3ny-2BKpt4MvAnLxnaVt9s0apSgmduWWpixCvRemQOHCfuTHIz3v0iC-2BVGtSTUBEYqwo2nNzoXcSE-3DyaMo_D9hNMLsqZZhuRPOWBzZFpxJUg7iMKWk0Fp1zofC5WqzWpBc4-2Fi6wucyehv-2F9ytu6k3gOMVpPV-2FpvLrA3Dk-2Fbmt5LbGUyQEeLw7wmEiIQJMTiGVpdcwYpEZSYJYA4-2FESiT3tM7Yo-2Fw2F-2FC8JgaTprsCkxK4-2BmE1PaKid429Iga-2BQExkRA-2FgsgHdl1FIUPgYSKZLfnQccNoYWe1-2BHxRlfbsQ-3D-3D">
+<button>Escuchar ahora</button>
+</a>
+
+</body>
+</html>
+https://imgur.com/a/a8qPLEx
